@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/danielcouponsystem/static/css/main.863c6cb6.css",
+    "main.js": "/danielcouponsystem/static/js/main.b55d0b52.js",
+    "static/js/787.9cdf5d7c.chunk.js": "/danielcouponsystem/static/js/787.9cdf5d7c.chunk.js",
+    "static/media/Food.png": "/danielcouponsystem/static/media/Food.1b91f325c4f3937f1224.png",
+    "static/media/Electricity.png": "/danielcouponsystem/static/media/Electricity.c5adc16f513e1d8e89d3.png",
+    "static/media/Vacation.png": "/danielcouponsystem/static/media/Vacation.2c8454be1ceb10e99c54.png",
+    "static/media/Restaurant.png": "/danielcouponsystem/static/media/Restaurant.dae84530e18c1927df4a.png",
+    "index.html": "/danielcouponsystem/index.html",
+    "main.863c6cb6.css.map": "/danielcouponsystem/static/css/main.863c6cb6.css.map",
+    "main.b55d0b52.js.map": "/danielcouponsystem/static/js/main.b55d0b52.js.map",
+    "787.9cdf5d7c.chunk.js.map": "/danielcouponsystem/static/js/787.9cdf5d7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863c6cb6.css",
+    "static/js/main.b55d0b52.js"
+  ]
+}
